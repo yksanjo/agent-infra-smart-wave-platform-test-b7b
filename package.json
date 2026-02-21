@@ -1,0 +1,23 @@
+{
+  "name": "agent-infra-smart-wave-platform-test-b7b",
+  "version": "1.0.0",
+  "description": "Database and storage abstraction layer",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "ai",
+    "agent",
+    "infrastructure",
+    "smart-wave-platform-test-b7b"
+  ],
+  "author": "Yoshi Kondo <yoshi@musicailab.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yksanjo/agent-infra-smart-wave-platform-test-b7b.git"
+  }
+}
